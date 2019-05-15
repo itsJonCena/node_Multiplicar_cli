@@ -6,6 +6,6 @@ Esta es una aplicacion de multiplicar en consola.
 
 npm install
 
-##Ejecutar este comando para ver la ayuda.
+### Ejecutar este comando para ver la ayuda.
 
 node app --help
