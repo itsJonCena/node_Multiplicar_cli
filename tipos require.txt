@@ -1,0 +1,15 @@
+/**
+ * default de node
+ * const fs = require('fs');
+ */
+
+/**
+ * Require paquetes no nativos
+ * const express = require('express');
+ */
+
+/**
+ * Require paquetes no nativos y definidos por el desarrollador
+ * e indica la ruta hasta donde se encuntra el archivo
+ * const otro = require('./otro');
+ */
